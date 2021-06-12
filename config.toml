@@ -1,4 +1,4 @@
-baseurl      = "localhost"
+baseurl      = "https://muralikrishna.netlify.app/"
 title        = "Murali Krishna"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
