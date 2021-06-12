@@ -1,0 +1,117 @@
+baseurl      = "localhost"
+title        = "Murali Krishna"
+languageCode = "en-us"
+theme        = "hello-friend-ng"
+paginate     = 10
+
+enableEmoji     = true
+PygmentsCodeFences = true
+PygmentsStyle = "monokai"
+archetypeDir = "archetypes"
+disableHugoGeneratorInject = false
+
+disableRSS     = true
+disableSitemap = false
+disable404     = false
+
+contentDir   = "content"
+dataDir      = "data"
+layoutDir    = "layouts"
+publishDir   = "public"
+
+[permalinks]
+  posts = "/posts/:year/:month/:title/"
+
+[author]
+  name = "Murali Krishna"
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  # Subtitle for home
+  homeSubtitle = "It all starts here"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Enable sharing buttons, if you like
+  enableSharingButtons = true
+
+  # Metadata mostly used in document's head
+  description = "My new homepage or blog"
+  keywords = "homepage, blog"
+  images = [""]
+
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+
+# Default theme "light" or "dark"
+defaultTheme = "dark"
+themeColor = "#252627"
+
+# Colors for favicons
+[params.favicon.color]
+    mask = "#252627"
+    msapplication = "#252627"
+    theme = "#252627"
+
+# Social icons
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/murali-krishna-0496/"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/animi4695"
+
+  [[params.social]]
+    name = "instagram"
+    url  = "https://www.instagram.com/nameis_murali/"
+
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/animi4695"
+
+  [[params.social]]
+    name = "facebook"
+    url  = "https://www.facebook.com/krishna2krish/"
+
+
+[languages]
+  [languages.en]
+    title = "Murali Krishna"
+    subtitle = "It all starts here"
+    keywords = ""
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "/home/murali"
+      logoHomeLink = "/"
+      logoCursorDisabled = false
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+  # And you can even create generic menu
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "about/"  
+  [[menu.main]]
+    identifier = "posts"
+    name       = "Posts"
+    url        = "posts/"
+#  [[menu.main]]
+#    identifier = "projects"
+#    name       = "Projects"
+#    url        = "projects/"
