@@ -1,7 +1,7 @@
 baseurl      = "https://muralikrishna.netlify.app/"
 title        = "Murali Krishna"
 languageCode = "en-us"
-theme        = "hello-friend-ng"
+theme        = "hugo-theme-hello-friend-ng"
 paginate     = 10
 
 enableEmoji     = true
