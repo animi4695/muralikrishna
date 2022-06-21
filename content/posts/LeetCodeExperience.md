@@ -57,10 +57,10 @@ I randomly do the problems now and am still not a pro but definitely reached a l
 
 **My current standings:**   
 **Phase-2:** 
-Oracle(1st round - no_offer), Amazon(OA - no_offer), Arcesium(OA - ghosted), Nagarro(offer), Accenture (got the offer but still didn't receive an email till now. HR is still trying to collect my docs)
+Oracle(1st round - no_offer), Amazon(OA - no_offer), Arcesium(OA - ghosted), Nagarro(offer), Accenture (offer)
 
 **phase-3:**
-Siemens(offer), ServiceNow(5th round completed at the time of writing this article and didn't go well.) and offers from a couple of other startups(unicorn) and MNCs.
+Siemens(offer), ServiceNow(5th round completed at the time of writing this article and didn't go well.) and offers from a couple of other startups(unicorn) and tier-2 MNCs.
 
 ![image](img/leetcodegarden.png)
 
