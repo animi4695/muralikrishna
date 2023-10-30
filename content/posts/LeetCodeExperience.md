@@ -75,11 +75,11 @@ I randomly do the problems now and am still not a pro but definitely reached a l
 
 **Phase-2:** 
 
-Oracle(1st round - no_offer), Amazon(OA - no_offer), Arcesium(OA - ghosted), Nagarro(offer), Accenture (offer)
+Oracle(3rd round - no_offer), Amazon(OA - no_offer), Arcesium(OA - ghosted), Nagarro(offer), Accenture (offer)
 
 **phase-3:**
 
-Siemens(offer), ServiceNow(5th round completed at the time of writing this article and didn't go well.) and offers from a couple of other startups(unicorn) and tier-2 MNCs.
+Siemens(offer), ServiceNow(6th round completed at the time of writing this article and didn't go well.) and offers from a couple of other startups(unicorn) and tier-2 MNCs.
 
 ![image](/img/leetcodegarden.png)
 
@@ -89,6 +89,6 @@ Siemens(offer), ServiceNow(5th round completed at the time of writing this artic
 l will continue my preparation and try leetcode contests.
 I hope I'll someday work at FAANG level companies.
 
-Thank you for being patient and hanging till the end. That is what precisely needs to crack the interviews.
+Thank you for being patient and hanging till the end. That is precisely precisely needs to crack the interviews.
 
 ***I hope this helps someone who is on the verge of leaving the preparation. Be patient and continue with the preparation. Your future you will thank you.***
