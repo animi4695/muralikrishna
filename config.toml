@@ -1,4 +1,4 @@
-baseurl      = "https://muralikrishna.netlify.app/"
+baseurl      = "https://nocapstories.com/"
 title        = "Murali Krishna"
 languageCode = "en-us"
 theme        = "hugo-theme-hello-friend-ng"
@@ -22,9 +22,6 @@ publishDir   = "public"
 [permalinks]
   posts = "/posts/:year/:month/:title/"
 
-[author]
-  name = "Murali Krishna"
-
 [blackfriday]
   hrefTargetBlank = true
 
@@ -47,6 +44,9 @@ publishDir   = "public"
   description = "My new homepage or blog"
   keywords = "homepage, blog"
   images = [""]
+
+  EnableThemeToggle = true
+  backgroundImage = ""
 
 [taxonomies]
     category = "blog"
